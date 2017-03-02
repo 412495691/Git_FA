@@ -1,3 +1,3 @@
 def index(request):
-    print("xiaohu is sb")
+    print("xiaohu and bisheng   is sb")
     return render(request,"index.html")
